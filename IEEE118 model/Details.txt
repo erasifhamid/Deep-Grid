@@ -1,0 +1,7 @@
+IEEE_SM_118 DATA DETAILS
+Training data: 236*100*50
+Testing data  236*100*49
+ICs for training: 0:0.5:50
+ICs for testing: midpoints 
+Step size t=0:0.05:5
+Training IC: 0.3929 (3800:3900) 
